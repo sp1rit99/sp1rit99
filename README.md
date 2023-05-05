@@ -1,3 +1,4 @@
+[![MasterHead](https://thumbs.gfycat.com/TautHotCrow-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ryan Chowdhury</h1>
 <h3 align="center">A graphic designer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://krita-artists.org/uploads/default/original/2X/9/9cd8ea6f7cd0eb9373561616f8ee8562867aef02.gif">
