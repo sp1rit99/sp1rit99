@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **html css and javascript**
 
-- 👨‍💻 All of my designs are available at [[https://www.facebook.com/sp1rit.99](https://www.facebook.com/0xsp1rit.99)](https://www.facebook.com/sp1rit.99)
+- 👨‍💻 All of my designs are available at https://www.facebook.com/0xsp1rit.99
 
 - 📝 I regularly write articles on [https://www.facebook.com/materialitysermon1.0](https://www.facebook.com/materialitysermon1.0)
 
