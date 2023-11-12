@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sp1rit_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sp1rit_99" height="30" width="40" /></a>
-<a href="https://fb.com/netron007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="netron007" height="30" width="40" /></a>
-<a href="https://instagram.com/sp1rit_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sp1rit_99" height="30" width="40" /></a>
+<a href="https://fb.com/0xsp1rit99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="netron007" height="30" width="40" /></a>
+<a href="https://instagram.com/0xsp1rit_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sp1rit_99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
